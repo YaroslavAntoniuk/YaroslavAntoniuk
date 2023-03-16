@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaroslavAntoniuk&show_icons=true&theme=dark)
+[![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=YaroslavAntoniuk&theme=dark&show_icons=true)](https://github.com/YaroslavAntoniuk)   ![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaroslavAntoniuk&show_icons=true&theme=dark)
